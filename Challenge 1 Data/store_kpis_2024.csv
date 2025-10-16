@@ -1,0 +1,4 @@
+"store_id","store_name","store_city","store_state","transactions","units_sold","revenue","avg_unit_price","avg_basket"
+101,"Greenway - Northside","Everton","WA","4486","138193.50","1354778.38","9.80","302.00"
+102,"Greenway - Westlake","Everton","WA","4379","134888.83","1323080.40","9.81","302.14"
+103,"Greenway - Riverside","Everton","WA","4394","136131.97","1322975.35","9.72","301.09"
