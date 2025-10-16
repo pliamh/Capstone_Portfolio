@@ -1,4 +1,4 @@
-\# Patrick Horgan — Applied Data Science Capstone Portfolio
+# Patrick Horgan — Applied Data Science Capstone Portfolio
 
 
 
@@ -12,7 +12,7 @@ It demonstrates full data-science workflow skills: cleaning messy data, imputing
 
 
 
-\## 🧠 Overview
+## 🧠 Overview
 
 
 
@@ -36,18 +36,12 @@ It demonstrates full data-science workflow skills: cleaning messy data, imputing
 
 
 
-\## 📂 Folder Guide
-
-
+## 📁 Folder Guide
 
 | Folder | Description |
-
 |---------|--------------|
-
 | `Challenge 1 Data` | Schema and data-modeling work |
-
 | `Challenge 2 Data` | Data quality and imputation analyses |
-
 | `Challenge 3 Data` | Trend and forecasting exploration |
 
 
@@ -56,7 +50,7 @@ It demonstrates full data-science workflow skills: cleaning messy data, imputing
 
 
 
-\## 🧰 Tools \& Languages
+## 🧰 Tools \& Languages
 
 
 
@@ -70,7 +64,7 @@ Jupyter Notebooks  |  SQL  |  Excel
 
 
 
-\## ▶️ How to Run (if code is included later)
+## ▶️ How to Run
 
 
 
@@ -94,7 +88,7 @@ Jupyter Notebooks  |  SQL  |  Excel
 
 
 
-\## 📊 About This Portfolio
+## 📊 About This Portfolio
 
 
 
