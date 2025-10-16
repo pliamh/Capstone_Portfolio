@@ -66,21 +66,14 @@ Jupyter Notebooks  |  SQL  |  Excel
 
 ## ▶️ How to Run
 
+1. Open a terminal in this folder.
+2. Create a virtual environment and install packages:
 
-
-1\. Open a terminal in this folder  
-
-2\. Create a virtual environment and install packages:
-
-&nbsp;  ```bash
-
-&nbsp;  python -m venv .venv
-
-&nbsp;  .venv\\Scripts\\activate
-
-&nbsp;  pip install -r requirements.txt
-
-&nbsp;```
+```bash
+python -m venv .venv
+.venv\Scripts\activate  # on Windows
+pip install -r requirements.txt
+```
 
 
 
