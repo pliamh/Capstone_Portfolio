@@ -1,0 +1,61 @@
+product_upc,product_name,brand,department_name,category_name,size,unit,vendor_name,vendor_phone,regular_price,unit_cost,pack_size
+433218196001,Rainshadow Produce Apples,Rainshadow Produce,Produce,Apples,1 lb,lb,Evergreen Organics,206-555-0110,3.11,2.31,1
+386379402654,Evergreen Farms Bananas,Evergreen Farms,Produce,Bananas,1 lb,lb,Frontier Foods Wholesale,206-555-0118,5.33,3.68,1
+161559407816,Evergreen Farms Kale,Evergreen Farms,Produce,Kale,3 lb,lb,Pacific Produce Co.,206-555-0111,1.76,1.1,1
+931034131647,Rainshadow Produce Spinach,Rainshadow Produce,Produce,Spinach,3 lb,lb,Bulk Barn West,206-555-0115,1.15,0.84,6
+534192832764,North Fork Organics Carrots,North Fork Organics,Produce,Carrots,2 lb,lb,Bulk Barn West,206-555-0115,4.52,3.19,6
+030564139537,Rainshadow Produce Potatoes,Rainshadow Produce,Produce,Potatoes,2 lb,lb,Bulk Barn West,206-555-0115,0.92,0.69,2
+423884969653,Rainshadow Produce Avocados,Rainshadow Produce,Produce,Avocados,Each,each,Cascadia Dairy,206-555-0112,5.95,3.76,1
+012269166978,Rainshadow Produce Blueberries,Rainshadow Produce,Produce,Blueberries,Each,each,Pacific Produce Co.,206-555-0111,1.92,1.2,1
+845146270482,Rainshadow Produce Strawberries,Rainshadow Produce,Produce,Strawberries,1 lb,lb,Pacific Produce Co.,206-555-0111,2.68,1.82,4
+932528809570,Evergreen Farms Broccoli,Evergreen Farms,Produce,Broccoli,3 lb,lb,Frontier Foods Wholesale,206-555-0118,3.47,2.23,1
+303911718227,Skyline Dairy Milk 2%,Skyline Dairy,Dairy,Milk 2%,12 ct,ct,Sunrise Wellness,206-555-0114,5.47,3.4,4
+963834657871,Cascadia Creamery Whole Milk,Cascadia Creamery,Dairy,Whole Milk,1 gal,gal,Frontier Foods Wholesale,206-555-0118,3.39,2.22,1
+098393010310,Cascadia Creamery Greek Yogurt,Cascadia Creamery,Dairy,Greek Yogurt,1 qt,qt,Bulk Barn West,206-555-0115,4.45,3.19,1
+473829973763,Cascadia Creamery Butter Unsalted,Cascadia Creamery,Dairy,Butter Unsalted,16 oz,oz,Blue Sky Bakery,206-555-0113,2.79,1.89,1
+566701065133,Cascadia Creamery Cheddar Cheese,Cascadia Creamery,Dairy,Cheddar Cheese,8 oz,oz,Ocean Crest Seafood,206-555-0116,5.34,3.24,1
+624731781080,EverFresh Cottage Cheese,EverFresh,Dairy,Cottage Cheese,32 oz,oz,Cascadia Dairy,206-555-0112,5.44,3.4,1
+773602606474,Cascadia Creamery Almond Milk,Cascadia Creamery,Dairy,Almond Milk,1/2 gal,gal,Ocean Crest Seafood,206-555-0116,1.91,1.42,2
+723430980500,EverFresh Eggs,EverFresh,Dairy,Eggs,8 oz,oz,Frontier Foods Wholesale,206-555-0118,7.77,5.6,4
+208121913619,Skyline Dairy Cream,Skyline Dairy,Dairy,Cream,16 oz,oz,Frontier Foods Wholesale,206-555-0118,3.47,2.13,1
+916998543534,EverFresh Sour Cream,EverFresh,Dairy,Sour Cream,16 oz,oz,Evergreen Organics,206-555-0110,5.94,3.96,2
+510799118384,Blue Sky Bakery Sourdough Loaf,Blue Sky Bakery,Bakery,Sourdough Loaf,12 ct,ct,Meadow Meats,206-555-0117,2.23,1.5,1
+542784980841,Stone Hearth Whole Wheat Bread,Stone Hearth,Bakery,Whole Wheat Bread,Each,each,Blue Sky Bakery,206-555-0113,1.55,1.14,1
+824493534874,Stone Hearth Croissant,Stone Hearth,Bakery,Croissant,Each,each,Pacific Produce Co.,206-555-0111,3.28,2.29,1
+005242786801,Blue Sky Bakery Bagels,Blue Sky Bakery,Bakery,Bagels,24 oz,oz,Sunrise Wellness,206-555-0114,3.69,2.5,1
+059826204505,Grain & Glow Blueberry Muffins,Grain & Glow,Bakery,Blueberry Muffins,6 ct,ct,Frontier Foods Wholesale,206-555-0118,5.5,3.45,1
+586923226025,Sun Valley Rolled Oats,Sun Valley,Grocery,Rolled Oats,32 oz,oz,Pacific Produce Co.,206-555-0111,19.41,13.9,2
+216073375433,Sun Valley Basmati Rice,Sun Valley,Grocery,Basmati Rice,32 oz,oz,Sunrise Wellness,206-555-0114,18.84,13.83,1
+541458685014,Sun Valley Black Beans,Sun Valley,Grocery,Black Beans,32 oz,oz,Ocean Crest Seafood,206-555-0116,12.35,9.12,1
+196556981693,Sun Valley Spaghetti,Sun Valley,Grocery,Spaghetti,48 oz,oz,Evergreen Organics,206-555-0110,2.67,1.68,1
+883561595148,Frontier Foods Olive Oil,Frontier Foods,Grocery,Olive Oil,12 oz,oz,Evergreen Organics,206-555-0110,1.85,1.2,1
+648236629946,Sun Valley Tomato Sauce,Sun Valley,Grocery,Tomato Sauce,12 oz,oz,Bulk Barn West,206-555-0115,8.37,5.36,4
+369957773872,Frontier Foods Peanut Butter,Frontier Foods,Grocery,Peanut Butter,48 oz,oz,Sunrise Wellness,206-555-0114,16.74,10.94,6
+951343320037,Frontier Foods Honey,Frontier Foods,Grocery,Honey,48 oz,oz,Frontier Foods Wholesale,206-555-0118,6.33,4.31,4
+936763201632,Frontier Foods Cereal,Frontier Foods,Grocery,Cereal,12 oz,oz,Ocean Crest Seafood,206-555-0116,3.67,2.64,6
+831727889579,Sun Valley Tortillas,Sun Valley,Grocery,Tortillas,12 oz,oz,Evergreen Organics,206-555-0110,2.41,1.8,6
+727743487347,Sun Valley Quinoa,Sun Valley,Grocery,Quinoa,12 oz,oz,Frontier Foods Wholesale,206-555-0118,15.66,9.86,1
+455812236231,Sun Valley Chickpeas,Sun Valley,Grocery,Chickpeas,48 oz,oz,Blue Sky Bakery,206-555-0113,1.09,0.79,2
+760366909670,VitaCrest Vitamin D3,VitaCrest,Wellness,Vitamin D3,120 ct,ct,Frontier Foods Wholesale,206-555-0118,30.02,21.29,1
+889373467065,VitaCrest Multivitamin,VitaCrest,Wellness,Multivitamin,8 oz,oz,Ocean Crest Seafood,206-555-0116,32.21,19.68,6
+729806990162,WellNorth Probiotic,WellNorth,Wellness,Probiotic,8 oz,oz,Cascadia Dairy,206-555-0112,18.18,11.22,2
+653755646417,Sunrise Labs Electrolyte Powder,Sunrise Labs,Wellness,Electrolyte Powder,60 ct,ct,Sunrise Wellness,206-555-0114,35.34,24.51,1
+310033092327,WellNorth Fish Oil,WellNorth,Wellness,Fish Oil,60 ct,ct,Bulk Barn West,206-555-0115,17.24,10.51,6
+452991241904,Sunrise Labs Magnesium,Sunrise Labs,Wellness,Magnesium,90 ct,ct,Meadow Meats,206-555-0117,16.56,10.74,4
+319314919058,Sack & Barrel Almonds Raw,Sack & Barrel,Bulk,Almonds Raw,1 lb,lb,Ocean Crest Seafood,206-555-0116,12.34,8.58,2
+850671657262,Sack & Barrel Walnuts,Sack & Barrel,Bulk,Walnuts,1 lb,lb,Pacific Produce Co.,206-555-0111,14.47,9.71,6
+987769453147,Sack & Barrel Coffee Beans,Sack & Barrel,Bulk,Coffee Beans,2 lb,lb,Sunrise Wellness,206-555-0114,4.1,2.9,1
+507527354549,Everton Bulk Brown Rice,Everton Bulk,Bulk,Brown Rice,2 lb,lb,Ocean Crest Seafood,206-555-0116,12.76,8.73,6
+831367837770,Everton Bulk Trail Mix,Everton Bulk,Bulk,Trail Mix,2 lb,lb,Evergreen Organics,206-555-0110,12.9,8.7,1
+349578856855,Everton Bulk Cashews,Everton Bulk,Bulk,Cashews,0.5 lb,lb,Ocean Crest Seafood,206-555-0116,9.55,6.34,6
+431351823374,Everton Bulk Pistachios,Everton Bulk,Bulk,Pistachios,1 lb,lb,Sunrise Wellness,206-555-0114,2.83,1.74,6
+343524082400,Daily Deli Hummus,Daily Deli,Deli,Hummus,32 oz,oz,Pacific Produce Co.,206-555-0111,4.43,3.08,4
+109477752047,Hearth & Ladle Roast Chicken,Hearth & Ladle,Deli,Roast Chicken,16 oz,oz,Meadow Meats,206-555-0117,8.39,5.67,1
+190229413186,Greenway Kitchen Tomato Soup,Greenway Kitchen,Deli,Tomato Soup,Each,each,Meadow Meats,206-555-0117,16.7,10.64,4
+677496499091,Daily Deli Potato Salad,Daily Deli,Deli,Potato Salad,16 oz,oz,Frontier Foods Wholesale,206-555-0118,9.74,6.95,1
+123281206797,Daily Deli Pasta Salad,Daily Deli,Deli,Pasta Salad,16 oz,oz,Sunrise Wellness,206-555-0114,7.19,4.4,1
+471349361832,Meadow Meats Salmon Fillet,Meadow Meats,Meat/Seafood,Salmon Fillet,1 lb,lb,Sunrise Wellness,206-555-0114,10.79,6.73,1
+249947174648,Meadow Meats Chicken Breast,Meadow Meats,Meat/Seafood,Chicken Breast,1 lb,lb,Evergreen Organics,206-555-0110,23.58,17.01,4
+906594013990,Ocean Crest Ground Beef,Ocean Crest,Meat/Seafood,Ground Beef,1.5 lb,lb,Pacific Produce Co.,206-555-0111,17.66,12.9,6
+278742967175,Ocean Crest Pork Chops,Ocean Crest,Meat/Seafood,Pork Chops,2 lb,lb,Evergreen Organics,206-555-0110,21.06,13.23,2
+256746807154,Ocean Crest Shrimp 16-20,Ocean Crest,Meat/Seafood,Shrimp 16-20,1.5 lb,lb,Pacific Produce Co.,206-555-0111,22.84,15.55,1
