@@ -95,7 +95,7 @@ This portfolio highlights my ability to:
 
 
 ## 🎥 Presentation Slides
-[View my 17-slide presentation on Google Slides](https://docs.google.com/presentation/d/1OQ1zAFTkq-itLTzvutC1cYnb6w5lmYvxwSjgHx22gaU/edit?usp=sharing)
+[View my Slideshow Presentation Here!](https://docs.google.com/presentation/d/1OQ1zAFTkq-itLTzvutC1cYnb6w5lmYvxwSjgHx22gaU/edit?usp=sharing)
 
 
 
