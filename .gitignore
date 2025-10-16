@@ -1,0 +1,19 @@
+# Python cache and environment files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data files (keep folder but not large data)
+data/*.csv
+data/*.xlsx
+data/raw/
