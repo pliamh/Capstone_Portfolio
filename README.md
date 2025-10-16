@@ -91,7 +91,12 @@ This portfolio highlights my ability to:
 
 \- Apply statistical and machine-learning methods  
 
-\- Communicate technical results clearly to non-technical audiences  
+\- Communicate technical results clearly to non-technical audiences
+
+
+## 🎥 Presentation Slides
+[View my 17-slide presentation on Google Slides](https://docs.google.com/presentation/d/1OQ1zAFTkq-itLTzvutC1cYnb6w5lmYvxwSjgHx22gaU/edit?usp=sharing)
+
 
 
 
