@@ -16,13 +16,9 @@ It demonstrates full data-science workflow skills: cleaning messy data, imputing
 
 
 
-\*\*Course:\*\* DTSC 691 — Applied Data Science Capstone  
-
-\*\*Project Theme:\*\* Grocery Store Analytics  
-
-
-
-\*\*Goal:\*\* Transform raw, messy grocery store data into actionable insights through:
+**Course:** DTSC 691 — Applied Data Science Capstone
+**Project Theme:** Grocery Store Analytics
+**Goal:** Transform raw, messy grocery store data into actionable insights through:
 
 \- Data modeling and schema design  
 
