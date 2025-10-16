@@ -80,7 +80,7 @@ Jupyter Notebooks  |  SQL  |  Excel
 
 &nbsp;  pip install -r requirements.txt
 
-&nbsp;  ```
+&nbsp;```
 
 
 
