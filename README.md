@@ -4,7 +4,7 @@
 
 This repository showcases my M.S. Applied Data Science capstone work for the grocery store project.  
 
-It demonstrates full data-science workflow skills: cleaning messy data, imputing missing values, building forecasts, and evaluating ROI.
+It demonstrates full data-science workflow skills: cleaning messy data, imputing missing values, and building forecasts.
 
 
 
