@@ -9,8 +9,8 @@ Work includes schema design (Postgres), reliable ETL, feature engineering (calen
 **What’s inside**
 - Database: ERD → 3NF schema (Postgres) + idempotent ETL  
 - Data Quality: systematic audits, imputations, leakage checks  
-- Forecasting: SARIMA/Prophet and tree-based baselines with regressors (dow, holiday, weather)  
-- Reports: executive summaries, visuals, and model evaluation  
+- Forecasting: SARIMA/Prophet and tree-based baselines with regressors (calendar, holiday, weather, weekend)  
+- Reports: executive summaries, visuals, and model evaluation 
 
 
 ---
