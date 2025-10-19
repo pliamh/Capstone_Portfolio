@@ -1,11 +1,16 @@
 # Patrick Horgan — Applied Data Science Capstone Portfolio
 
 
+# Scalable Retail Analytics: From Spreadsheets to a Production-Ready ML Pipeline
 
-This repository showcases my M.S. Applied Data Science capstone work for the grocery store project.  
+End-to-end project building a normalized relational database, professional data-quality pipeline, and forecasting models for a growing grocery chain (3 → 10 stores).  
+Work includes schema design (Postgres), reliable ETL, feature engineering (calendar, holiday, weather), and short-term demand forecasting with backtesting and clear business recommendations.
 
-It demonstrates full data-science workflow skills: cleaning messy data, imputing missing values, and building forecasts.
-
+**What’s inside**
+- Database: ERD → 3NF schema (Postgres) + idempotent ETL  
+- Data Quality: systematic audits, imputations, leakage checks  
+- Forecasting: SARIMA/Prophet and tree-based baselines with regressors (dow, holiday, weather)  
+- Reports: executive summaries, visuals, and model evaluation  
 
 
 ---
