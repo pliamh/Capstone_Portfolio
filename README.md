@@ -1,7 +1,7 @@
 # Patrick Horgan — Applied Data Science Capstone Portfolio
 
 
-# Scalable Retail Analytics: From Spreadsheets to a Production-Ready ML Pipeline
+## Scalable Retail Analytics: From Spreadsheets to a Production-Ready ML Pipeline
 
 End-to-end project building a normalized relational database, professional data-quality pipeline, and forecasting models for a growing grocery chain (3 → 10 stores).  
 Work includes schema design (Postgres), reliable ETL, feature engineering (calendar, holiday, weather), and short-term demand forecasting with backtesting and clear business recommendations.
