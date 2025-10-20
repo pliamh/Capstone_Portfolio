@@ -71,17 +71,37 @@ Jupyter Notebooks  |  SQL  |  Excel
 
 
 
-## ▶️ How to Run
+## ▶️ How to Run (optional)
 
-1. Open a terminal in this folder.
-2. Create a virtual environment and install packages:
+You don’t need to run anything to view results—see `/deliverables` for the PDFs.  
+If you want to reproduce plots and artifacts locally:
 
-```bash
+1. Clone and enter the repo
+   ```bash
+   git clone https://github.com/pliamh/Capstone_Portfolio.git
+   cd Capstone_Portfolio
+
+2. Create a virtual environment and install deps
+
+Windows (PowerShell):
+```
 python -m venv .venv
-.venv\Scripts\activate  # on Windows
+.\.venv\Scripts\Activate
+python -m pip install -U pip
 pip install -r requirements.txt
 ```
+macOS / Linux:
+```
+python3 -m venv .venv
+source .venv/bin/activate
+python -m pip install -U pip
+pip install -r requirements.txt
+```
+3. Open the notebooks (or run scripts) in the phase folders:
 
+01_data_modeling_spreadsheets_to_schema/
+02_data_quality_validation_and_imputation/
+03_trends_seasonality_and_forecasting/
 
 
 ---
