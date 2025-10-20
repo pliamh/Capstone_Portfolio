@@ -99,7 +99,7 @@ pip install -r requirements.txt
 ```
 3. Open the notebooks (or run scripts) in the phase folders:
 
-- [01_data_modeling_spreadsheets_to_schema/](deliverables/01_data_modeling_spreadsheets_to_schema.ipynb.pdf)
+- [01_data_modeling_spreadsheets_to_schema/](01_data_modeling_spreadsheets_to_schema)
 - [02_data_quality_validation_and_imputation/](deliverables/02_data_quality_validation_and_imputation.ipynb.pdf)
 - [03_trends_seasonality_and_forecasting/](deliverables/03_trends_seasonality_and_forecasting.ipynb.pdf)
 
