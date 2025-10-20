@@ -1,5 +1,5 @@
 metric,value
-forecast_sum,256516.0480204969
-naive7_sum,0.0
+forecast_sum,253156.27460931236
+naive7_sum,64332.979999999996
 last_28d_hist,266776.86
 same_window_prev_year,224578.56
