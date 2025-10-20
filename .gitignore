@@ -17,3 +17,17 @@ Thumbs.db
 data/*.csv
 data/*.xlsx
 data/raw/
+
+# IDE configs
+.idea/
+.vscode/
+
+# Notebooks (we publish PDFs instead)
+*.ipynb
+
+# System metadata & temp
+Desktop.ini
+ehthumbs.db
+*.tmp
+*.log
+._*
