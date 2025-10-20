@@ -57,14 +57,12 @@ Work includes schema design (Postgres), reliable ETL, feature engineering (calen
 
 
 
-## 🧰 Tools \& Languages
+## 🧰 Tools & Languages
 
-
-
-Python (pandas, numpy, matplotlib, scikit-learn)  
-
-Jupyter Notebooks  |  SQL  |  Excel  
-
+**Python** — pandas, numpy, matplotlib, scikit-learn, statsmodels, holidays, meteostat  
+**SQL** — schema design, normalization, and query optimization  
+**Jupyter Notebooks** — exploratory data analysis and reporting  
+**Excel** — data validation and presentation of business metrics
 
 
 ---
