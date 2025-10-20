@@ -27,13 +27,12 @@ Work includes schema design (Postgres), reliable ETL, feature engineering (calen
 
 **Goal:** Transform raw, messy grocery store data into actionable insights through:
 
-\- Data modeling and schema design  
+**Portfolio deliverables**
 
-\- Data quality auditing and imputation  
+- [Data Modeling — From Spreadsheets to Schema](deliverables/01_data_modeling_spreadsheets_to_schema.ipynb.pdf)
+- [Data Quality — Validation & Imputation](deliverables/02_data_quality_validation_and_imputation.ipynb.pdf)
+- [Trends & Forecasting — Seasonality, Holidays & Weather](deliverables/03_trends_seasonality_and_forecasting.ipynb.pdf)
 
-\- Trend and forecasting analysis  
-
-\- ROI and membership impact evaluation  
 
 
 
