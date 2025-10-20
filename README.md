@@ -1,28 +1,31 @@
-\# Patrick Horgan — Applied Data Science Capstone Portfolio
+# Patrick Horgan — Applied Data Science Capstone Portfolio
 
 
+## Scalable Retail Analytics: From Spreadsheets to a Production-Ready ML Pipeline
 
-This repository showcases my M.S. Applied Data Science capstone work for the grocery store project.  
+End-to-end project building a normalized relational database, professional data-quality pipeline, and forecasting models for a growing grocery chain (3 → 10 stores).  
+Work includes schema design (Postgres), reliable ETL, feature engineering (calendar, holiday, weather), and short-term demand forecasting with backtesting and clear business recommendations.
 
-It demonstrates full data-science workflow skills: cleaning messy data, imputing missing values, and building forecasts.
-
+**What’s inside**
+- Database: ERD → 3NF schema (Postgres) + idempotent ETL  
+- Data Quality: systematic audits, imputations, leakage checks  
+- Forecasting: SARIMA/Prophet and tree-based baselines with regressors (calendar, holiday, weather, weekend)  
+- Reports: executive summaries, visuals, and model evaluation 
 
 
 ---
 
 
 
-\## 🧠 Overview
+## 🧠 Overview
 
 
 
-\*\*Course:\*\* DTSC 691 — Applied Data Science Capstone  
+**Course:** DTSC 691 — Applied Data Science Capstone
 
-\*\*Project Theme:\*\* Grocery Store Analytics  
+**Project Theme:** Grocery Store Analytics
 
-
-
-\*\*Goal:\*\* Transform raw, messy grocery store data into actionable insights through:
+**Goal:** Transform raw, messy grocery store data into actionable insights through:
 
 \- Data modeling and schema design  
 
@@ -38,18 +41,12 @@ It demonstrates full data-science workflow skills: cleaning messy data, imputing
 
 
 
-\## 📂 Folder Guide
-
-
+## 📁 Folder Guide
 
 | Folder | Description |
-
 |---------|--------------|
-
 | `Challenge 1 Data` | Schema and data-modeling work |
-
 | `Challenge 2 Data` | Data quality and imputation analyses |
-
 | `Challenge 3 Data` | Trend and forecasting exploration |
 
 
@@ -58,7 +55,7 @@ It demonstrates full data-science workflow skills: cleaning messy data, imputing
 
 
 
-\## 🧰 Tools \& Languages
+## 🧰 Tools \& Languages
 
 
 
@@ -72,23 +69,16 @@ Jupyter Notebooks  |  SQL  |  Excel
 
 
 
-\## ▶️ How to Run (if code is included later)
+## ▶️ How to Run
 
+1. Open a terminal in this folder.
+2. Create a virtual environment and install packages:
 
-
-1\. Open a terminal in this folder  
-
-2\. Create a virtual environment and install packages:
-
-&nbsp;  ```bash
-
-&nbsp;  python -m venv .venv
-
-&nbsp;  .venv\\Scripts\\activate
-
-&nbsp;  pip install -r requirements.txt
-
-&nbsp;  ```
+```bash
+python -m venv .venv
+.venv\Scripts\activate  # on Windows
+pip install -r requirements.txt
+```
 
 
 
@@ -96,7 +86,7 @@ Jupyter Notebooks  |  SQL  |  Excel
 
 
 
-\## 📊 About This Portfolio
+## 📊 About This Portfolio
 
 
 
@@ -106,7 +96,12 @@ This portfolio highlights my ability to:
 
 \- Apply statistical and machine-learning methods  
 
-\- Communicate technical results clearly to non-technical audiences  
+\- Communicate technical results clearly to non-technical audiences
+
+
+## 🎥 Presentation Slides
+[View my Slideshow Presentation Here!](https://docs.google.com/presentation/d/1OQ1zAFTkq-itLTzvutC1cYnb6w5lmYvxwSjgHx22gaU/edit?usp=sharing)
+
 
 
 
