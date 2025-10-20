@@ -101,7 +101,7 @@ pip install -r requirements.txt
 
 - [01_data_modeling_spreadsheets_to_schema/](01_data_modeling_spreadsheets_to_schema)
 - [02_data_quality_validation_and_imputation/](02_data_quality_validation_and_imputation)
-- [03_trends_seasonality_and_forecasting/](deliverables/03_trends_seasonality_and_forecasting.ipynb.pdf)
+- [03_trends_seasonality_and_forecasting/](03_trends_seasonality_and_forecasting)
 
 
 ---
