@@ -43,10 +43,13 @@ Work includes schema design (Postgres), reliable ETL, feature engineering (calen
 ## 📁 Folder Guide
 
 | Folder | Description |
-|---------|--------------|
-| `Challenge 1 Data` | Schema and data-modeling work |
-| `Challenge 2 Data` | Data quality and imputation analyses |
-| `Challenge 3 Data` | Trend and forecasting exploration |
+|:--|:--|
+| **01_data_modeling_spreadsheets_to_schema** | Schema design and data-modeling foundation |
+| **02_data_quality_validation_and_imputation** | Data cleaning, validation, and imputation processes |
+| **03_trends_seasonality_and_forecasting** | Trend, seasonality, and forecasting analyses |
+| **deliverables/** | Final PDF reports for each phase (viewable directly on GitHub) |
+| **reports/** | Auto-generated outputs from forecasting models |
+
 
 
 
