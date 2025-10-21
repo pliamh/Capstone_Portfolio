@@ -1,4 +1,4 @@
-# Patrick Horgan — Applied Data Science Capstone Portfolio
+# Patrick Horgan — Data Science Capstone Portfolio
 
 
 ## Scalable Retail Analytics: From Spreadsheets to a Production-Ready ML Pipeline
