@@ -21,8 +21,6 @@ Work includes schema design (Postgres), reliable ETL, feature engineering (calen
 
 
 
-**Course:** DTSC 691 — Applied Data Science Capstone
-
 **Project Theme:** Grocery Store Analytics
 
 **Goal:** Transform raw, messy grocery store data into actionable insights through:
